@@ -2,6 +2,9 @@ A VR shooting game
 You need to keep shooting the monster util time's up  
 
 Grab the gun, load the magzine, cock the gun, and pull the trigger  
+
+I delope this project with HTC Vive and SteamVR  
+  
 GamePlay Vidio  
 https://youtu.be/PlkZ5UP-hbU  
   
