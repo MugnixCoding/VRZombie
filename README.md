@@ -1,8 +1,10 @@
 A VR shooting game  
 You need to keep shooting the monster util time's up  
 
-Grab the gun, load the magzine, cock the gun, and pull the trigger
-
+Grab the gun, load the magzine, cock the gun, and pull the trigger  
+GamePlay Vidio  
+https://youtu.be/PlkZ5UP-hbU  
+  
 This project Using Unity XR toolkit 2.3.2  
   
 The Assets Store Item I Use  
