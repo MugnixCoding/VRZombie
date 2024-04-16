@@ -5,7 +5,7 @@ Grab the gun, load the magzine, cock the gun, and pull the trigger
 
 This project Using Unity XR toolkit 2.3.2  
   
-The Assets Store Item I Use
+The Assets Store Item I Use  
 Materials  
 https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182  
 
